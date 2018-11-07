@@ -16,7 +16,7 @@ Logo:
 ![](https://github.com/FranciscoCurin/Cattus/blob/master/icon/org.cattus.logo.svg)
 
 
-[link](<a href="http://www.freepik.com">Designed by Freepik</a>)
+[logo](<a href="http://www.freepik.com">Designed by Freepik</a>)
 
 
 Icons:
