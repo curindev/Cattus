@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=cattus
+Comment=Small Sqlite3 visualizer
+Exec=cattus
+Icon=/usr/share/cattus/icon/org.cattus.icon22.svg
+Terminal=false
+StartupNotify=true
+StartupWMClass=cattus
+Categories=Development;Utility;Database;
+MimeType=application/cattus;application/x-cattus;application/x-sqlite2;application/x-sqlite3;
+
+
