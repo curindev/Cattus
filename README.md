@@ -12,7 +12,8 @@ Dependencies:
 * [python3-sqlparse](https://github.com/andialbrecht/sqlparse)
 * [python3-xlsxwriter](https://github.com/jmcnamara/XlsxWriter)
 
-Icon:
+Logo:
+![](https://github.com/FranciscoCurin/Cattus/blob/master/icon/org.cattus.logo.svg)
 [link](<a href="http://www.freepik.com">Designed by Freepik</a>)
 
 Current status:
