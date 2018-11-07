@@ -1,4 +1,4 @@
-####Cattus 1.0
+Cattus 1.0
 
 This program is a small visualizer for sqlite3 written in python and gtk3
 
