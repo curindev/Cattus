@@ -1,0 +1,7 @@
+libgtk-3-0
+libgtksourceview-3.0-1
+libgtksourceview-3.0-common
+python3-gi
+python3-gi-cairo
+python3-sqlparse
+python3-xlsxwriter
