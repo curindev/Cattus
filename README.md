@@ -18,6 +18,10 @@ Logo:
 
 [link](<a href="http://www.freepik.com">Designed by Freepik</a>)
 
+
+Icons:
+[This application uses icons of the theme flat remix](https://github.com/daniruiz/Flat-Remix)
+
 Current status:
 
 * Software still in Beta status
