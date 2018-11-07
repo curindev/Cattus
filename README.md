@@ -32,4 +32,5 @@ Screenshoots
 
 
 ![](https://github.com/FranciscoCurin/Cattus/blob/master/screenshots/Screenshot%20from%202018-11-03%2018-29-10.png)
+![](https://github.com/FranciscoCurin/Cattus/blob/master/screenshots/Screenshot%20from%202018-11-03%2018-30-13.png)
 
